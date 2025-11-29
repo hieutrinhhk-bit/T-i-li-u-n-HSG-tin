@@ -1,2 +1,2 @@
-# T-i-li-u-n-HSG-tin
+# HSG-tin
 Chứa các nội dung ôn HSG môn tin THCS
